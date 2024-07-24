@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
-  # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
+  get 'activity/mine'
 
-  # Defines the root path route ("/")
-  # root "articles#index"
+  get 'activity/feed'
+
+  root "activity#mine"
 end

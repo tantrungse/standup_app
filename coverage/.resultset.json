@@ -8,6 +8,7 @@
           null,
           1,
           null,
+          1,
           null
         ]
       },
@@ -28,6 +29,84 @@
       "/Users/trung/Documents/work/standup_app/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          1,
+          null,
+          27,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          20,
+          9,
+          9,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          9,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/trung/Documents/work/standup_app/app/models/account.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/trung/Documents/work/standup_app/app/controllers/accounts_controller.rb": {
+        "lines": [
+          1,
+          1,
+          4,
+          null,
+          4,
+          null,
+          null,
+          1,
+          4,
+          4,
+          2,
+          2,
+          2,
+          null,
+          2,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          4,
+          null,
+          null
+        ]
+      },
+      "/Users/trung/Documents/work/standup_app/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          20,
+          10,
+          null,
+          10,
+          null,
+          null,
           null
         ]
       },
@@ -42,9 +121,20 @@
           null
         ]
       },
-      "/Users/trung/Documents/work/standup_app/app/controllers/application_controller.rb": {
+      "/Users/trung/Documents/work/standup_app/app/controllers/registrations_controller.rb": {
         "lines": [
           1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          6,
+          null,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       },
@@ -92,6 +182,6 @@
         }
       }
     },
-    "timestamp": 1721809425
+    "timestamp": 1722160225
   }
 }
